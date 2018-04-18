@@ -1,0 +1,10 @@
+### project ###
+.settings/
+bin/
+.classpath
+.project
+
+### macOS ###
+.DS_Store
+*.DS_Store
+.DS_Store?
