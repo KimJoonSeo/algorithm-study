@@ -22,7 +22,9 @@ public class BinarySearchTest {
 		
 		while(low <= high) {
 			int mid = (low + high) / 2;
+			
 			Comparable guess = objArr[mid];
+			
 			if(guess.compareTo(target) == 0) {
 				result = mid;
 				break;
