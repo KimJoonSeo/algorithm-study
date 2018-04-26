@@ -42,6 +42,7 @@ public class CacheTest {
 		getPage("joon.com");
 		getPage("sook.com");
 		getPage("mi.com");
+		getPage("joon.com");
 	}
 
 }
